@@ -21,6 +21,8 @@ https://www.ideas2it.com/blogs/angular-development-best-practices/
 
 https://www.youtube.com/watch?v=WA95EJGhbLc (How to Properly Structure Angular Code)
 
+https://www.youtube.com/watch?v=-IVlrDP9GUE (Scalable Angular Structure)
+
 https://www.youtube.com/watch?v=jH1cHFa-iUs
 
 https://www.youtube.com/watch?v=cCvLk_U4IQ0
