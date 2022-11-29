@@ -42,3 +42,17 @@ Angular Dashboard Basic Configuration
 --------------------------------------------------------------------
 
 https://www.youtube.com/watch?v=sON9WnBDjJg
+
+--------------------------------------------------------
+Adding https to angular application / custom domain
+----------------------------------------------------------
+
+https://medium.com/@richardr39/using-angular-cli-to-serve-over-https-locally-70dab07417c8   (Adding https domain)
+
+https://youtu.be/OWjVXb7-mSU (Adding https domain)
+
+https://medium.com/@rajdeepdeb/local-angular-project-with-a-domain-ebf99b18a4a8 (Adding custom domain)
+
+
+
+
